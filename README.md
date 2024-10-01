@@ -1,2 +1,2 @@
-# PertemuanBungah2
+# Aplikasi Form Hitung
 Belajar membuat Form Hitung dengan Netbeans
